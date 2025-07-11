@@ -1,4 +1,4 @@
-# Capstone Space Allocation 
+# React & GIS Web Application 
 
 ![Alt text](/screenshots/allocated.png?raw=true "Allocated Map")
 
@@ -16,7 +16,7 @@ We had to going through the Software Development process, where we had to do the
 
 ### Postgresql Database
 
-Follow instructions in [Postgres Stuff/Setup.org](https://github.com/GrimmWeeper/capstone-space-allocation/blob/master/Postgres%20stuff/Setup.org)
+Follow instructions in [Postgres Stuff/Setup.org](https://github.com/devihor25/React-GIS-Web-App/blob/main/Postgres%20stuff/Setup.org)
 
 ### Frontend (React)
 
@@ -38,11 +38,4 @@ npm install
 ```
 npm run dev
 ```
-
-## Authors
-
-* [GrimmWeeper](https://github.com/GrimmWeeper)
-* [Zachary Teo](https://github.com/zackteo)
-* [Li Ying Kwa](https://github.com/liying-kwa)
-* [LuyingPang](http://github.com/LuyingPang)
 
